@@ -17,5 +17,4 @@ This project focuses on developing a system to convert Indian Sign Language (ISL
 - [Sakshi Kirmathe](https://github.com/sakshikirmathe)
 - [Deven Bhagtani](https://github.com/devensinghbhagtani)
 
-## Mentor
-[Dr. (Mrs.) Nupur Giri](https://www.linkedin.com/in/dr-nupur-giri-6635a542/)
+## Mentor: [Dr. (Mrs.) Nupur Giri](https://www.linkedin.com/in/dr-nupur-giri-6635a542/)
