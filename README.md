@@ -10,7 +10,7 @@ This project focuses on developing a system to convert Indian Sign Language (ISL
 - [Project Report - Semester 6](https://docs.google.com/document/d/1zu-vkr42S_OlXKTUYuxv_mRM7USf5-4h/edit?usp=sharing&ouid=117071278021388323002&rtpof=true&sd=true)
 
 ## Research Paper
-- [Gesturely: a Conversation AI based Indian Sign Language Model] (https://www.overleaf.com/read/phcjqgbcdgwg#cdf40f)
+- [Gesturely - a Conversation AI based Indian Sign Language Model](https://www.overleaf.com/read/phcjqgbcdgwg#cdf40f)
 
 ## Team Members
 - [Piyush Chugeja](https://github.com/piyushchugeja)
