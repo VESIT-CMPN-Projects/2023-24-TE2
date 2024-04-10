@@ -1,0 +1,10 @@
+mediapipe
+tensorflow
+opencv-python
+numpy
+google-generativeai
+streamlit
+googletrans
+playsound
+gtts
+scipy
