@@ -5,9 +5,8 @@ This project focuses on developing a system to convert Indian Sign Language (ISL
 - Reports
 - Code
 - Certificates
-
-## Report
-- [Project Report - Semester 6](https://docs.google.com/document/d/1zu-vkr42S_OlXKTUYuxv_mRM7USf5-4h/edit?usp=sharing&ouid=117071278021388323002&rtpof=true&sd=true)
+- Research paper and plagiarism report
+- Video demo of project
 
 ## Mentor: [Dr. (Mrs.) Nupur Giri](https://www.linkedin.com/in/dr-nupur-giri-6635a542/)
 
