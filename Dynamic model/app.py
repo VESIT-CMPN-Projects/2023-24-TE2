@@ -55,12 +55,17 @@ def main():
 
     # Upload videos
     uploaded_files = st.file_uploader("Upload your video(s)", accept_multiple_files=True)
+    words = []
 
     # Process videos sequentially
     if st.button("Process Videos"):
-        words = []
+        if not uploaded_files:
+            st.warning("Please upload video(s) first.")
+            return 
         with st.spinner("Processing videos..."):
-            if uploaded_files:
+            if words:
+                pass
+            elif uploaded_files:
                 for video_file in uploaded_files:
                     pose = process_single_video(video_file)
                     word = get_word(pose)
