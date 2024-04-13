@@ -8,3 +8,4 @@ googletrans
 playsound
 gtts
 scipy
+tensorflow_addons

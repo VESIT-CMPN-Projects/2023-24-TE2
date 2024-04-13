@@ -51,7 +51,7 @@ def main():
     st.header("Sign Language Translation")
     
     # Choose language
-    language = language_codes[st.selectbox("Choose language", list(language_codes.keys()))]
+    language = language_codes[st.selectbox("Choose language", list(language_codes.keys()), placeholder="Choose a language")]
 
     # Upload videos
     uploaded_files = st.file_uploader("Upload your video(s)", accept_multiple_files=True)

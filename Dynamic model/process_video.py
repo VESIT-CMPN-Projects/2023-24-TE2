@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow_addons.metrics import MultiLabelConfusionMatrix
 
 with tf.keras.utils.custom_object_scope({'MultiLabelConfusionMatrix': MultiLabelConfusionMatrix}):
-    model = load_model("trained_26_89_25c.h5")
+    model = load_model("trained_40_88_25c.h5")
 
 def process_and_predict (video_path):
     mp_pose = mp.solutions.pose
