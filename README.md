@@ -11,7 +11,7 @@ This project focuses on developing a system to convert Indian Sign Language (ISL
 ## Mentor: [Dr. (Mrs.) Nupur Giri](https://www.linkedin.com/in/dr-nupur-giri-6635a542/)
 
 ## Research Paper
-- [Gesturely - a Conversation AI based Indian Sign Language Model](https://www.overleaf.com/read/phcjqgbcdgwg#cdf40f)
+- [Gesturely - a Conversation AI based Indian Sign Language Model](https://doi.org/10.52783/jisem.v10i10s.1421)
 
 ## Team Members
 - [Piyush Chugeja](https://github.com/piyushchugeja)
